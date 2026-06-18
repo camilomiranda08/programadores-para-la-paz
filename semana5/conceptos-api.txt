@@ -1,0 +1,5 @@
+La ruta POST /reporte recibe un mensaje enviado por el usuario y devuelve una respuesta en formato JSON confirmando que el reporte fue recibido.
+
+Esta ruta podría servir en una aplicación comunitaria para que los ciudadanos reporten problemas, envíen sugerencias o informen situaciones importantes a los administradores de la comunidad.
+
+Las APIs permiten que diferentes aplicaciones compartan información de manera organizada y eficiente.
