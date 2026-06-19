@@ -1,0 +1,16 @@
+Comando: uname -a
+
+Este comando muestra información detallada del sistema operativo, incluyendo el nombre del sistema, la versión del kernel, la arquitectura del procesador y otros datos técnicos.
+
+Resultado obtenido:
+Linux codespaces-cda952 6.8.0-1052-azure #58~22.04.1-Ubuntu SMP Thu Mar 26 05:02:21 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+
+Comando: whoami
+
+Este comando muestra el nombre del usuario que está utilizando actualmente el sistema.
+
+Resultado obtenido:
+codespace
+
+Importancia:
+Conocer la información del sistema permite identificar el entorno donde se ejecuta una aplicación o servidor, verificar versiones del sistema operativo y facilitar tareas de administración, mantenimiento y solución de problemas.
